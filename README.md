@@ -1,10 +1,11 @@
-### Olá Eu sou o Nicollas 👋
+## Olá eu sou o Nicollas Souza 👋
 
 - 🔭 Atualmente trabalho como QA Junior
-- 🌱 Estou voltando as raízes do aprendizado em programação 
-- 🤔 Em Busca da "Linguagem perdida" 
+- 🌱 Sempre buscando aprimorar meus conhecimentos em programação
+- 🤔 Em Busca da "Linguagem perdida"
 
-Me encontrem em:
+## Me encontrem em:
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:nicollassouza56@gmail.com)
@@ -15,8 +16,18 @@ Me encontrem em:
 
 ![Nicollas Souza Stats](https://github-readme-stats.vercel.app/api?username=Nicollas56&show_icons=true&theme=github_dark)
 
-### Tecnologias que uso no dia a dia
+</div>
 
-<div style='display: inline_block><br/>
+## Tenho experiências em:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="GoogleSheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+  <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+
+
 
 </div>
