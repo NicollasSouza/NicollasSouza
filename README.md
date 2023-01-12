@@ -14,12 +14,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/nicollassouza56/)
 
+  <!--- Retirado para resolução de bug
   <div>
     <a href="https://github.com/Nicollas56">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicollas56&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     </a>
   </div>
-
+  -->
 </div><br/>
 
 ## Tenho experiências em:
